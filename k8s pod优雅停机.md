@@ -15,3 +15,8 @@ docker容器任何时候都能被终止。如在弹性收缩，部署删除或�
 
 
 http://www.kailing.pub/article/index/arcid/261.html
+
+
+ambari修复失败的机器
+
+https://www.cnblogs.com/lianglianggege/p/9402133.html
